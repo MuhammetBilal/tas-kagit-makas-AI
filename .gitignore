@@ -1,0 +1,15 @@
+# PyCharm dosyaları
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Python dosyaları
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Büyük veri setleri (Veri setini Roboflow linki olarak vereceğiz)
+datasets/
+runs/
